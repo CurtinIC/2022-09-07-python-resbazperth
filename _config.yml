@@ -52,7 +52,7 @@ pilot: false
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "ResBaz Data Carpentry Workshop: Introduction to Data Analysis and Visualisation in Python"
+title: "ResBaz: Introduction to Data Analysis and Visualisation in Python"
 
 #------------------------------------------------------------
 # Incubator workshop settings (only relevant for workshops teaching a lesson
